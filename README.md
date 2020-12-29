@@ -1,2 +1,2 @@
-# DataScienceBlog
-Data science blog uploading
+### Data Science Blog
+###### Pamela Kinga's Data Science Blog - December 29, 2020
